@@ -1,0 +1,39 @@
+---Cloud Computing---DAY-1
+Creating AWS---
+aws freetier
+Email ID- naresh.chouhan786@gmail.com
+Password- @Shivaay29$
+Acconut Id- 614299388498
+bucket link-https://s3.us-east-2.amazonaws.com/mybucketlove/Amazon+S3.docx
+Creating Instance and Bucket
+
+SDK---
+download & install eclipse
+go to help
+give url of aws
+
+
+---Cloud Computing---DAY-2
+
+Acconut Id- 614299388498
+Acconut Name- Naresh
+Access Key
+Access Key ID: AKIAJPNSJ3JXK5EG3RZA
+Secret Access Key: 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
+
+Create User in IAM
+for IAM User- User1 @user123
+Access Key ID: AKIAIK4XKAPSFRZWTB7Q
+Secret Access Key: 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
+
+Elastic Beanstalk- http://default-environment.7xmeai4dfb.us-east-2.elasticbeanstalk.com/
+
+War link---https://s3.us-east-2.amazonaws.com/bucket121aws/secapp.war
+
+So Create user---ec2  instance---beanstack---s3 bucket--- upload war by 2 ways(possible)
+
+New User for DB---
+User Name-- oracle
+Password-- oracledb123
+Access Key ID: AKIAJDOLVADFUM4L6CSQ
+Secret Access Key: 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
