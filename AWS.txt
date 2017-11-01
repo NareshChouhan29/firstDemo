@@ -1,4 +1,4 @@
----Cloud Computing---DAY-1
+---Cloud Computing---diwas-1
 Creating AWS---
 aws freetier
 Email ID- naresh.chouhan786@gmail.com
